@@ -1,0 +1,1 @@
+web: coffee junction.coffee

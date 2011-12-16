@@ -2,5 +2,8 @@
   "name": "oembed-junction",
   "version": "0.0.1",
   "dependencies": {
-  }
+    "coffee-script": ">= 1.1.2",
+    "express": "2.2.0"
+  },
+  "engine": "node 0.4.7"
 }
