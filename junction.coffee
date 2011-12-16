@@ -32,9 +32,10 @@ http.createServer (req, res) ->
       res.end(JSON.stringify({message: 'found', description: 'Found a oembed service', location: "#{redirect}/#{request_url.search}"}))
       console.log "Found redirect: #{redirect}/#{request_url.search}"
     else
-      res.writeHead 404, {'Content-Type': 'application/json'}
-      res.end(JSON.stringify {message:'not_found', description: 'No target oembed service found'})
-      console.log "ERROR - Didn't find redirect: #{req.url}"
+      # Use embed.ly as backup
+      res.writeHead 302, {'Content-Type': 'application/json', 'Location': "http://api.embed.ly/1/oembed#{request_url.search}"}
+      res.end(JSON.stringify({message: 'found', description: 'Using backup service', location: "http://api.embed.ly/1/oembed#{request_url.search}"}))
+      console.log "Using embed.ly: #{request_url.search}"
   else
     res.writeHead 400, {'Content-Type': 'application/json'}
     console.log "ERROR - Invalid request"
