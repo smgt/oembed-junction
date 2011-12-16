@@ -12,7 +12,8 @@ oembed_services = {
   "www.ifixit.com": 'http://www.ifixit.com/Embed',
   "www.smugmug.com": 'http://api.smugmug.com/services/oembed/',
   "www.slideshare.net": 'http://www.slideshare.net/api/oembed/2',
-  "wordpress.com": 'http://public-api.wordpress.com/oembed/'
+  "wordpress.com": 'http://public-api.wordpress.com/oembed/',
+  "justin.tv": 'http://api.justin.tv/api/embed/from_url.json'
 }
 
 port = process.env.PORT || 3000
