@@ -30,4 +30,4 @@ http.createServer (req, res) ->
     console.log "ERROR - Invalid request"
     res.end(JSON.stringify({message:'invalid_request', description:'"url" parameter is missing'}));
 
-.listen 3000
+.listen port
