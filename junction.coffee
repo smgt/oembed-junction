@@ -13,6 +13,7 @@ oembed_services = {
      'hulu.com':           'http://www.hulu.com/api/oembed.json',
      'ifixit.com':         'http://www.ifixit.com/Embed',
      'justin.tv':          'http://api.justin.tv/api/embed/from_url.json',
+     'official.fm':        'http://official.fm/services/oembed.json',
      'qik.com':            'http://qik.com/api/oembed.json',
      'revision3.com':      'http://revision3.com/api/oembed/',
      'slideshare.net':     'http://www.slideshare.net/api/oembed/2',
@@ -21,6 +22,7 @@ oembed_services = {
      'viddler.com':        'http://lab.viddler.com/services/oembed/',
      'vimeo.com':          'http://vimeo.com/api/oembed.json',
      'wordpress.com':      'http://public-api.wordpress.com/oembed/',
+     'yfrog.com':          'http://www.yfrog.com/api/oembed',
      'youtube.com':        'http://www.youtube.com/oembed'
 }
 
