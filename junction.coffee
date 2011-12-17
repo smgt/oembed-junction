@@ -13,6 +13,7 @@ oembed_services = {
      'collegehumor.com':   'http://www.collegehumor.com/oembed.json',
      'dailymotion.com':    'http://www.dailymotion.com/api/oembed',
      'flickr.com':         'http://www.flickr.com/services/oembed/',
+     'funnyordie.com':     'http://www.funnyordie.com/oembed',
      'hulu.com':           'http://www.hulu.com/api/oembed.json',
      'ifixit.com':         'http://www.ifixit.com/Embed',
      'justin.tv':          'http://api.justin.tv/api/embed/from_url.json',
