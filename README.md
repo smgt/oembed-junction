@@ -38,6 +38,7 @@ Current services oembed-junction supports:
 * viddler.com - http://lab.viddler.com/services/oembed/
 * vimeo.com - http://vimeo.com/api/oembed.json
 * wordpress.com - http://public-api.wordpress.com/oembed/
+* wordpress.tv - http://wordpress.tv/oembed/
 * yfrog.com - http://www.yfrog.com/api/oembed
 * youtube.com - http://www.youtube.com/oembed
 
