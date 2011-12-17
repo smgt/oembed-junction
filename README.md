@@ -23,11 +23,13 @@ Connection: keep-alive
 Current services oembed-junction supports:
 
 * bambuser.com - http://api.bambuser.com/oembed.json
+* blip.tv - http://blip.tv/oembed/
 * collegehumor.com - http://www.collegehumor.com/oembed.json
 * flickr.com - http://www.flickr.com/services/oembed/
 * hulu.com - http://www.hulu.com/api/oembed.json
 * ifixit.com - http://www.ifixit.com/Embed
 * justin.tv - http://api.justin.tv/api/embed/from_url.json
+* official.fm - http://official.fm/services/oembed.json
 * qik.com - http://qik.com/api/oembed.json
 * revision3.com - http://revision3.com/api/oembed/
 * slideshare.net - http://www.slideshare.net/api/oembed/2
