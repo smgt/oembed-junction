@@ -7,18 +7,19 @@ port = process.env.PORT || 3000
 
 # List of oembed services and their endpoints
 oembed_services = {
-     'vimeo.com':          'http://vimeo.com/api/oembed.json',
-     'youtube.com':        'http://www.youtube.com/oembed',
+     'collegehumor.com':   'http://www.collegehumor.com/oembed.json',
      'flickr.com':         'http://www.flickr.com/services/oembed/',
+     'hulu.com':           'http://www.hulu.com/api/oembed.json',
+     'ifixit.com':         'http://www.ifixit.com/Embed',
+     'justin.tv':          'http://api.justin.tv/api/embed/from_url.json'
      'qik.com':            'http://qik.com/api/oembed.json',
      'revision3.com':      'http://revision3.com/api/oembed/',
-     'hulu.com':           'http://www.hulu.com/api/oembed.json',
-     'collegehumor.com':   'http://www.collegehumor.com/oembed.json',
-     'ifixit.com':         'http://www.ifixit.com/Embed',
-     'smugmug.com':        'http://api.smugmug.com/services/oembed/',
      'slideshare.net':     'http://www.slideshare.net/api/oembed/2',
+     'smugmug.com':        'http://api.smugmug.com/services/oembed/',
+     'soundcloud.com':     'http://soundcloud.com/oembed',
+     'vimeo.com':          'http://vimeo.com/api/oembed.json',
      'wordpress.com':      'http://public-api.wordpress.com/oembed/',
-     'justin.tv':          'http://api.justin.tv/api/embed/from_url.json'
+     'youtube.com':        'http://www.youtube.com/oembed',
 }
 
 

@@ -22,18 +22,19 @@ Connection: keep-alive
 
 Current services oembed-junction supports:
 
-* vimeo.com - http://vimeo.com/api/oembed.json
-* youtube.com - http://www.youtube.com/oembed
+* collegehumor.com - http://www.collegehumor.com/oembed.json
 * flickr.com - http://www.flickr.com/services/oembed/
+* hulu.com - http://www.hulu.com/api/oembed.json
+* ifixit.com - http://www.ifixit.com/Embed
+* justin.tv - http://api.justin.tv/api/embed/from_url.json
 * qik.com - http://qik.com/api/oembed.json
 * revision3.com - http://revision3.com/api/oembed/
-* www.hulu.com - http://www.hulu.com/api/oembed.json
-* www.collegehumor.com - http://www.collegehumor.com/oembed.json
-* www.ifixit.com - http://www.ifixit.com/Embed
-* www.smugmug.com - http://api.smugmug.com/services/oembed/
-* www.slideshare.net - http://www.slideshare.net/api/oembed/2
+* slideshare.net - http://www.slideshare.net/api/oembed/2
+* smugmug.com - http://api.smugmug.com/services/oembed/
+* soundcloud.com - http://soundcloud.com/oembed
+* vimeo.com - http://vimeo.com/api/oembed.json
 * wordpress.com - http://public-api.wordpress.com/oembed/
-* justin.tv - http://api.justin.tv/api/embed/from_url.json
+* youtube.com - http://www.youtube.com/oembed
 
 
 ## WTF is oembed?
