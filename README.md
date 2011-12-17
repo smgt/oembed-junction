@@ -22,6 +22,7 @@ Connection: keep-alive
 
 Current services oembed-junction supports:
 
+* bambuser.com - http://api.bambuser.com/oembed.json
 * collegehumor.com - http://www.collegehumor.com/oembed.json
 * flickr.com - http://www.flickr.com/services/oembed/
 * hulu.com - http://www.hulu.com/api/oembed.json
@@ -32,6 +33,7 @@ Current services oembed-junction supports:
 * slideshare.net - http://www.slideshare.net/api/oembed/2
 * smugmug.com - http://api.smugmug.com/services/oembed/
 * soundcloud.com - http://soundcloud.com/oembed
+* viddler.com - http://lab.viddler.com/services/oembed/
 * vimeo.com - http://vimeo.com/api/oembed.json
 * wordpress.com - http://public-api.wordpress.com/oembed/
 * youtube.com - http://www.youtube.com/oembed
