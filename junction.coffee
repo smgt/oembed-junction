@@ -17,6 +17,7 @@ oembed_services = {
      'hulu.com':           'http://www.hulu.com/api/oembed.json',
      'ifixit.com':         'http://www.ifixit.com/Embed',
      'justin.tv':          'http://api.justin.tv/api/embed/from_url.json',
+     'mixcloud.com':       'http://www.mixcloud.com/oembed/',
      'my.opera.com':       'http://my.opera.com/service/oembed',
      'official.fm':        'http://official.fm/services/oembed.json',
      'photobucket.com':    'http://photobucket.com/oembed',
