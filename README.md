@@ -32,6 +32,7 @@ Current services oembed-junction supports:
 * hulu.com - http://www.hulu.com/api/oembed.json
 * ifixit.com - http://www.ifixit.com/Embed
 * justin.tv - http://api.justin.tv/api/embed/from_url.json
+* my.opera.com - http://my.opera.com/service/oembed
 * official.fm - http://official.fm/services/oembed.json
 * photobucket.com - http://photobucket.com/oembed
 * polldaddy.com - http://polldaddy.com/oembed/
