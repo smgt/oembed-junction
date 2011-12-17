@@ -7,6 +7,7 @@ port = process.env.PORT || 3000
 
 # List of oembed services and their end points
 oembed_services = {
+     '5min.com':           'http://api.5min.com/oembed.json',
      'bambuser.com':       'http://api.bambuser.com/oembed.json',
      'blip.tv':            'http://blip.tv/oembed/',
      'collegehumor.com':   'http://www.collegehumor.com/oembed.json',
