@@ -18,6 +18,7 @@ oembed_services = {
      'justin.tv':          'http://api.justin.tv/api/embed/from_url.json',
      'official.fm':        'http://official.fm/services/oembed.json',
      'photobucket.com':    'http://photobucket.com/oembed',
+     'polldaddy.com':      'http://polldaddy.com/oembed/',
      'qik.com':            'http://qik.com/api/oembed.json',
      'revision3.com':      'http://revision3.com/api/oembed/',
      'scribd.com':         'http://www.scribd.com/services/oembed',
