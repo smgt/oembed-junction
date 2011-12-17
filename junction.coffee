@@ -5,21 +5,22 @@ url = require 'url'
 # If you want to change set the shell variable PORT to desired port
 port = process.env.PORT || 3000
 
-# List of oembed services and their endpoints
+# List of oembed services and their end points
 oembed_services = {
      'collegehumor.com':   'http://www.collegehumor.com/oembed.json',
      'flickr.com':         'http://www.flickr.com/services/oembed/',
      'hulu.com':           'http://www.hulu.com/api/oembed.json',
      'ifixit.com':         'http://www.ifixit.com/Embed',
-     'justin.tv':          'http://api.justin.tv/api/embed/from_url.json'
+     'justin.tv':          'http://api.justin.tv/api/embed/from_url.json',
      'qik.com':            'http://qik.com/api/oembed.json',
      'revision3.com':      'http://revision3.com/api/oembed/',
      'slideshare.net':     'http://www.slideshare.net/api/oembed/2',
      'smugmug.com':        'http://api.smugmug.com/services/oembed/',
      'soundcloud.com':     'http://soundcloud.com/oembed',
+     'viddler.com':        'http://lab.viddler.com/services/oembed/',
      'vimeo.com':          'http://vimeo.com/api/oembed.json',
      'wordpress.com':      'http://public-api.wordpress.com/oembed/',
-     'youtube.com':        'http://www.youtube.com/oembed',
+     'youtube.com':        'http://www.youtube.com/oembed'
 }
 
 

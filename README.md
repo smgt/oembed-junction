@@ -1,7 +1,7 @@
 # Oembed Junction
 
 This is a [node.js](http://nodejs.org) test application. The idea is to have one oembed
-endpoint and then you will get redirected to the correct oembed service.
+end point and then you will get redirected to the correct oembed service.
 
 Example:
 
