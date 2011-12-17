@@ -20,6 +20,7 @@ oembed_services = {
      'official.fm':        'http://official.fm/services/oembed.json',
      'photobucket.com':    'http://photobucket.com/oembed',
      'polldaddy.com':      'http://polldaddy.com/oembed/',
+     'polleverywhere.com': 'http://www.polleverywhere.com/services/oembed/',
      'qik.com':            'http://qik.com/api/oembed.json',
      'revision3.com':      'http://revision3.com/api/oembed/',
      'scribd.com':         'http://www.scribd.com/services/oembed',
