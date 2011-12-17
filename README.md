@@ -48,6 +48,7 @@ Current services oembed-junction supports:
 * slideshare.net - http://www.slideshare.net/api/oembed/2
 * smugmug.com - http://api.smugmug.com/services/oembed/
 * soundcloud.com - http://soundcloud.com/oembed
+* ustream.tv - http://www.ustream.tv/oembed
 * viddler.com - http://lab.viddler.com/services/oembed/
 * vimeo.com - http://vimeo.com/api/oembed.json
 * wordpress.com - http://public-api.wordpress.com/oembed/
