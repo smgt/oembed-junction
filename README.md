@@ -26,6 +26,7 @@ Current services oembed-junction supports:
 * bambuser.com - http://api.bambuser.com/oembed.json
 * blip.tv - http://blip.tv/oembed/
 * collegehumor.com - http://www.collegehumor.com/oembed.json
+* dailymotion.com - http://www.dailymotion.com/api/oembed
 * flickr.com - http://www.flickr.com/services/oembed/
 * hulu.com - http://www.hulu.com/api/oembed.json
 * ifixit.com - http://www.ifixit.com/Embed
