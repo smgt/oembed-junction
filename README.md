@@ -1,7 +1,9 @@
 # Oembed Junction
 
-This is a [node.js](http://nodejs.org) test application. The idea is to have one oembed
-end point and then you will get redirected to the correct oembed service.
+This is a [node.js](http://nodejs.org) concept application. The idea is to have one oembed
+end point who will redirect requests to the correct oembed service. There are many that
+offer oembed end points but not everyone. If oembed-junction don't find a end point it checks
+embed.ly.
 
 Example:
 
@@ -19,6 +21,8 @@ Connection: keep-alive
 ```
 
 ## Services
+
+Please help populate the oembed end points. Just fork the project and send in pull-requests.
 
 Current services oembed-junction supports:
 
