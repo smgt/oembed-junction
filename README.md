@@ -59,8 +59,15 @@ Current services oembed-junction supports:
 
 ## WTF is oembed?
 
-[I want to know more about oembed.](http://oembed.com)
+[I want to know more about oembed!](http://oembed.com)
+
+## TODO
+
+  * Add regex doman matching support
+  * Add services that don't support oembed
+  * Caching for lookups
 
 ## Creator
 
 Copyright 2011 Simon Gate
+For license see LICENCE.md
