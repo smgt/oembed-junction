@@ -71,6 +71,6 @@ http.createServer (req, res) ->
     # The url parameter was missing from the query string
     res.writeHead 400, {'Content-Type': 'application/json'}
     console.log "ERROR - Invalid request"
-    res.end(JSON.stringify({message:'invalid_request', description:'"url" parameter is missing'}));
+    res.end(JSON.stringify({message:'invalid_request', description:'"url" parameter is missing. More information at http://github.com/simon/oembed-junction'}));
 
 .listen port
